@@ -1,3 +1,4 @@
+---
 - name: install composer
   get_url:
     url: "{{ composer.download_url }}"
