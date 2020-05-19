@@ -1,4 +1,4 @@
 ---
-composer:
-  install_name: composer
-  download_url: https://getcomposer.org/download/1.10.5/composer.phar
+composer_version: 1.10.6
+composer_install_name: composer
+composer_download_url: https://getcomposer.org/download/{{ composer_version }}/composer.phar
