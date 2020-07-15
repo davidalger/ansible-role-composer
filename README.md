@@ -1,6 +1,6 @@
 # Ansible Role: Composer
 
-[![Build Status](https://travis-ci.org/davidalger/ansible-role-composer.svg?branch=master)](https://travis-ci.org/davidalger/ansible-role-composer)
+[![Build Status](https://travis-ci.com/davidalger/ansible-role-composer.svg?branch=master)](https://travis-ci.com/davidalger/ansible-role-composer)
 
 Installs [Composer](https://getcomposer.org), dependency manager for PHP.
 
